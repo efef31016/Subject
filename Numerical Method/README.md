@@ -1,1 +1,1 @@
-solving linear problem or solving PDE
+solving linear problem or PDE
